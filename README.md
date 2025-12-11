@@ -1,16 +1,17 @@
-## Hi there 👋
+![Alt text](./persona.gif)
 
-<!--
-**eienorion/eienorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, Orion's here, a passionate and curious developer currently studying Informatics Engineering .
+I love building things—whether it’s mobile apps, websites, or small experiments that push my understanding of technology a bit further every day.
 
-Here are some ideas to get you started:
+Beyond coding, I enjoy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Games & anime
+
+📝 Writing and reading (especially Osamu Dazai)
+
+🎵 Chill music and easy listening classics
+
+My long-term goal is to work in the international tech industry and continue improving my skills through real-world projects.
+
+I’m still growing, still learning, and always building.
+
